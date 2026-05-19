@@ -275,7 +275,7 @@ This system is for **educational purposes only** and does not replace profession
 
 # 👨‍💻 Author
 
-**Mohnish**
+**jatin sharma**
 
 ---
 
